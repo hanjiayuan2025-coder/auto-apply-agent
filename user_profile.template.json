@@ -1,0 +1,62 @@
+{
+    "basic_info": {
+        "name": "",
+        "gender": "",
+        "nationality": "中国",
+        "birthplace_province": "",
+        "birthplace_city": "",
+        "ethnicity": "汉族",
+        "political_status": "共青团员",
+        "id_type": "身份证",
+        "id_number": "",
+        "birthday": "",
+        "phone": "",
+        "email": "",
+        "wechat": "",
+        "address": ""
+    },
+    "education": [
+        {
+            "level": "硕士",
+            "school": "",
+            "country": "中国",
+            "is_fulltime": true,
+            "is_overseas": false,
+            "start_date": "",
+            "end_date": "",
+            "major": "",
+            "major_category": "",
+            "degree": ""
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "location": "",
+            "department": "",
+            "position": "",
+            "description": ""
+        }
+    ],
+    "project_experience": [
+        {
+            "name": "",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        }
+    ],
+    "skills": {
+        "language_test": "",
+        "language_score": "",
+        "programming_languages": [],
+        "tools": ""
+    },
+    "links": {
+        "github": "",
+        "linkedin": "",
+        "email": ""
+    }
+}
